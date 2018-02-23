@@ -1,5 +1,12 @@
 {
     "name" : "IdIcsHelper",
-    "version" : "0.1",
-    "main" : "main.js"
+    "version" : "0.0.1",
+    "description" : "TU t'es bien foutu de ma gueule electron!",
+    "main" : "main.js",
+    "scripts" : {
+        "start" : "electron ."
+    },
+    "repository" : "https://github.com/jvsLimo/IdIcsHelper",
+    "author" : "Limo",
+    "license" : "CC0-1.0"
 }
